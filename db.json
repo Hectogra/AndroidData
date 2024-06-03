@@ -1,14 +1,96 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  {
+    "make": "Tesla",
+    "model": "Model S",
+    "year": 2021,
+    "color": "Red",
+    "price": 79999,
+    "image_url": "https://tesla-cdn.thron.com/delivery/public/image/tesla/7c4e22f0-fcbe-40e4-8719-ff0c4d5a743f/bvlatuR/std/1920x1080/Desktop-ModelS",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png"
+  },
+  {
+    "make": "BMW",
+    "model": "X5",
+    "year": 2022,
+    "color": "Black",
+    "price": 58999,
+    "image_url": "https://www.bmwusa.com/content/dam/bmwusa/X5/2022/BMW-MY22-G05-X5-Gallery-1-1680x756.jpg",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": 2020,
+    "color": "White",
+    "price": 39999,
+    "image_url": "https://www.audi.com/content/dam/ci/MY2020/S4-2020/BG_Audi-S4-2020_gallery_1-1920x1080.jpg",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Audi_logo_detail.jpg"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2021,
+    "color": "Silver",
+    "price": 41999,
+    "image_url": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my20/c/class/sedan/non-amg/MBCOM-CCMY20-C300-SDN-CLASS-HIGHLIGHTS-002-DR.jpg",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Mercedes-Logo.svg"
+  },
+  {
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2021,
+    "color": "Blue",
+    "price": 24999,
+    "image_url": "https://www.toyota.com/imgix/responsive/images/mlp/colorizer/2021/camry/3T3.png",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Toyota_logo.png"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2019,
+    "color": "Gray",
+    "price": 19999,
+    "image_url": "https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2019/Civic-Sedan/Global-Master/Trims/Images/Honda-Automobiles-2019-Civic-Sedan-LX-Modern-Steel-Metallic-1400.jpg",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Honda_logo.svg"
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2021,
+    "color": "Yellow",
+    "price": 55999,
+    "image_url": "https://www.ford.com/cmslibs/content/dam/brand_ford/en_us/brand/cars/mustang-21/special-editions/mach-1/3-2/21_mst_b3_gal_ext_32frnt_m1.jpg",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ford_logo_flat.svg"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "year": 2020,
+    "color": "Orange",
+    "price": 65999,
+    "image_url": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2020/performance/corvette/02-images/2020-corvette-stingray-mmp-1.jpg",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Chevrolet_logo.png"
+  },
+  {
+    "make": "Porsche",
+    "model": "911",
+    "year": 2022,
+    "color": "Green",
+    "price": 99999,
+    "image_url": "https://files.porsche.com/filestore/image/multimedia/none/992-c2-modelimage-sideshot/thumbwhite/7d8e9b39-8883-11e8-87f5-0019999cd470/porsche-thumbwhite.jpg",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/1/15/Porsche_Crest.svg"
+  },
+  {
+    "make": "Lexus",
+    "model": "ES",
+    "year": 2021,
+    "color": "Beige",
+    "price": 39999,
+    "image_url": "https://www.lexus.com/content/dam/lexus/images/models/2021/es-hybrid/2021-Lexus-ES-Hybrid-Thumbnail-1204x677.png",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lexus.svg"
   }
+
+
+  ]
 }
